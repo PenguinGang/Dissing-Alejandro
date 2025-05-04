@@ -1,0 +1,15 @@
+body {
+    background-color: darkred;
+    text-align: center;
+
+}
+
+img {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 20%;
+    margin-right: 30%;
+    margin-left: 30%;
+
+}
